@@ -1,0 +1,31 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environments (Anaconda, venv)
+venv/
+env/
+.venv/
+.conda/
+*.conda
+*.env
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# PyCharm project files
+.idea/
+
+# Mac system files
+.DS_Store
+
+# VSCode (if used)
+.vscode/
+
+# Environment variables
+.env
+
+# Optional: Ignore model/vectorizer if you don’t want to track them
+# Uncomment if needed:
+# *.pkl
