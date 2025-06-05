@@ -39,43 +39,24 @@ email-spam-classifier/
 └── .gitignore # Files ignored by Git
 </pre>
 
-yaml
-Copy
-Edit
-
 ---
 
 ## 🚀 How to Run Locally
 
 1. **Clone the repository**
-git clone https://github.com/your-username/email-spam-classifier.git
-cd email-spam-classifier
-
-cpp
-Copy
-Edit
+    git clone https://github.com/SHRAVANIRANE/email-spam-classifier.git
+    cd email-spam-classifier
 
 2. **Create virtual environment (optional but recommended)**
-python -m venv venv
-source venv/bin/activate # On Windows: venv\Scripts\activate
-
-markdown
-Copy
-Edit
+    python -m venv venv
+    source venv/bin/activate # On Windows: venv\Scripts\activate
 
 3. **Install dependencies**
-pip install -r requirements.txt
-
-markdown
-Copy
-Edit
+    pip install -r requirements.txt
 
 4. **Run the application**
-python app.py
+    python app.py
 
-yaml
-Copy
-Edit
 
 The app will start locally at:  
 [http://127.0.0.1:5000](http://127.0.0.1:5000)
